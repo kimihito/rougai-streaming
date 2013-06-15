@@ -1,0 +1,4 @@
+*.output
+*.pid
+*.yml
+*.rbenv-version
